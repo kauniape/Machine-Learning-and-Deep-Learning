@@ -8,9 +8,9 @@
 
 Kasus:
 Memprediksi Churn Status di Perbankan
-a. Lengkapi kode yang diberikan, sehingga Anda mempunyai tiga model berbeda.
-b. Bandingkan ketiga model tersebut, dan rangkum model mana yang terbaik (dan mengapa, berikan alasan).
-c. Gunakan metode optimasi model apabila perlu (seperti hyperparameter tuning, feature selection, dll).
+- Lengkapi kode yang diberikan, sehingga Anda mempunyai tiga model berbeda.
+- Bandingkan ketiga model tersebut, dan rangkum model mana yang terbaik (dan mengapa, berikan alasan).
+- Gunakan metode optimasi model apabila perlu (seperti hyperparameter tuning, feature selection, dll).
 
 ## Machine Learning (Unsupervised: Clustering) [Case #2]
 - Dataset: cluster_s1
@@ -19,9 +19,9 @@ c. Gunakan metode optimasi model apabila perlu (seperti hyperparameter tuning, f
 
 Kasus:
 Menentukan Jumlah Kluster Terbaik dari Random Data Points
-a. Lengkapi kode yang diberikan.
-b. Rangkumlah berapa banyak cluster yang terbaik untuk data yang diberikan.
-c. Visualisasikan kluster yang berhasil dibuat.
+- Lengkapi kode yang diberikan.
+- Rangkumlah berapa banyak cluster yang terbaik untuk data yang diberikan.
+- Visualisasikan kluster yang berhasil dibuat.
 
 
 ## Deep Learning (Supervised: Regression) [Case #3]
@@ -33,9 +33,9 @@ c. Visualisasikan kluster yang berhasil dibuat.
 
 Kasus:
 Memprediksi Harga Rumah dengan Multilayer Perceptron
-a. Lengkapi kode yang diberikan.
-b. Jawab [ PERTANYAAN ] langsung di notebook, jika ada.
-c. Aktifkan T4 GPU di Google Colab, jika diinstruksikan.
+- Lengkapi kode yang diberikan.
+- Jawab [ PERTANYAAN ] langsung di notebook, jika ada.
+- Aktifkan T4 GPU di Google Colab, jika diinstruksikan.
 
 
 ## Deep Learning (Supervised: Classification) [Case #4]
@@ -48,7 +48,7 @@ c. Aktifkan T4 GPU di Google Colab, jika diinstruksikan.
 
 Kasus:
 Klasifikasi Credit Card Fraud dengan Multilayer Perceptron
-a. Lengkapi kode yang diberikan.
-b. Jawab [ PERTANYAAN ] langsung di notebook, jika ada.
-c. Aktifkan T4 GPU di Google Colab, jika diinstruksikan.
-d. Pastikan Hasil evaluasi model (dengan data test) di atas 95%.
+- Lengkapi kode yang diberikan.
+- Jawab [ PERTANYAAN ] langsung di notebook, jika ada.
+- Aktifkan T4 GPU di Google Colab, jika diinstruksikan.
+- Pastikan Hasil evaluasi model (dengan data test) di atas 95%.
